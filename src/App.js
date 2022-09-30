@@ -45,7 +45,7 @@ function App() {
           value = 'search' 
           />
           <select className='app__healthLabels'>
-            <option className='label_name' onClick={() => setHealthLabels("vegan")}>Vegan</option>
+            <option className='label_name' onClick={() => setHealthLabels("vegan")}>Filter</option>
             <option className='label_name' onClick={() => setHealthLabels("vegetarian")}>vegetarian</option>
             <option className='label_name' onClick={() => setHealthLabels("dairy-free")}>dairy-free</option>
             <option className='label_name' onClick={() => setHealthLabels("glutan-free")}>glutan-free</option>
