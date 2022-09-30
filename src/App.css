@@ -1,21 +1,12 @@
 *{
-  
+  background-color: #131316
 }
-
-
 .app {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 40px 24px ;
-    background-color: #131316
-  }
-  .header_area{
-    height: 100px;
-    width: 100%;
-    text-align: left;
-    background-color: brown;
   }
   .heading {
     font-size: 40px;

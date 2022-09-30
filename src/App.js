@@ -35,7 +35,7 @@ function App() {
         <input 
         type= 'text' 
         className='input_form'
-        placeholder='enter your mood'
+        placeholder='enter your ingredient'
         value={query}
         onChange = {(e) => setQuery(e.target.value)} 
           />
